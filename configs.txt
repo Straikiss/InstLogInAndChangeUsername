@@ -1,0 +1,7 @@
+NAMES=2700
+SURNAMES=2700
+ACCOUNTS=2
+ACCOUNT_PATH=data/account.txt
+NAME_PATH=data/name.txt
+SURNAME_PATH=data/surname.txt
+NEW_ACCOUNT_PATH=data/new_account.txt
